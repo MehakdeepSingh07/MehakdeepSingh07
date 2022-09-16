@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MehakdeepSingh07
+- 👋 Hi, I’m @MehakdeepSingh07 (Mac)
 - 👀 I’m interested in cybersecurity music, and art.
 - 🌱 I’m currently learning designing apps, web development, computer forensics, and music.
 - 📫 Reach me at mehakrangi99@gmail.com
