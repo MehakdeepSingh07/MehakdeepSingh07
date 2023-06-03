@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MehakdeepSingh07 (Mac)
-- 👀 I’m interested in cybersecurity, computer forensics, music, art, and video editing.
+- 👀 I’m interested in cybersecurity, computer forensics, web-design & development, music, art, and video editing.
 - 🌱 I’m currently learning designing apps, web development, computer forensics, and music.
 - 📫 Reach me at mehakrangi99@gmail.com
 
